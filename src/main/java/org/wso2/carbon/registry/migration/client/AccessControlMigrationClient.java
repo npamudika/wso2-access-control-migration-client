@@ -41,7 +41,6 @@ public class AccessControlMigrationClient extends MigrationClientBase implements
 
     /**
      * This method is used to migrate all registry resources
-     * This migrates swagger resources and rxts
      *
      * @throws APIMigrationException
      */
