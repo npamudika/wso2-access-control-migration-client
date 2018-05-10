@@ -8,3 +8,4 @@ This Client is only supported for APIM 2.1.0.
 
 ### How to use
     - Start the server with -DmigrateAccessControl=true for migrate the registry resources
+    - If you want to run only for a range of tenants (for tenant ids 1-10) start the server with -DmigrateAccessControl=true -DtenantRange=1-10
